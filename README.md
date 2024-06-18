@@ -10,7 +10,7 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on selenium Automation framework with python.
 - 💬 Ask me about Product Quality Testing.
-- 📫 How to reach me: ![Linkedin](www.linkedin.com/in/ankush-mangave)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/ankush-mangave)
 - ⚡ Fun fact: Playing Cricket, watching movies
  
 ## Skills
