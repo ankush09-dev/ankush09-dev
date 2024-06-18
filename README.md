@@ -5,7 +5,7 @@
 
 I am a passionate QA Software Engineer with 2+ years of experience in ensuring the quality and reliability of software applications. I specialize in automated testing, manual testing, and performance testing. My goal is to deliver high-quality software products that meet and exceed user expectations.
 
-- 🔭 I’m currently working @Convin.ai.
+- 🔭 I’m currently working [Convin.ai](https://convin.ai)
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on selenium Automation framework with python.
 - 💬 Ask me about Product Quality Testing.
