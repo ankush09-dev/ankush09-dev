@@ -2,7 +2,6 @@
 <!---
 ![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
 -->
-## About Me
 
 I am a passionate QA Software Engineer with 2+ years of experience in ensuring the quality and reliability of software applications. I specialize in automated testing, manual testing, and performance testing. My goal is to deliver high-quality software products that meet and exceed user expectations.
 
@@ -10,7 +9,7 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on selenium Automation framework with python.
 - 💬 Ask me about Product Quality Testing.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/ankush-mangave)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ankush-mangave)
 - ⚡ Fun fact: Playing Cricket, watching movies
  
 ## Skills
@@ -18,8 +17,8 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=html&logoColor=ffdd54)
-![CSS](https://img.shields.io/badge/CSS-ED8B00?style=for-the-badge&logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Testing Frameworks and Tools
