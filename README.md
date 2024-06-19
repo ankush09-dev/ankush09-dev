@@ -60,7 +60,7 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
 ### [Convin.ai](https://convin.ai) — Quality Assurance Engineer
 **Duration**: Aug-2022 - Present
 - **Responsibilities**:
-  - Writing Automation script using selenium(Java)
+  - Writing Automation script using selenium(Python)
   - Writing test scripts and Executions
   - End to end testing(Regression, functional, etc)
   - Bugs finding and logging on Jira
