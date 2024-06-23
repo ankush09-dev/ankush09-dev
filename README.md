@@ -70,7 +70,7 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
 
 ### [Shivaji University](https://www.unishivaji.ac.in/)
 **Degree**: Bachelors Of Engineering
-**Duration**: June-2015 - May-2019
+**Graduated**: June-2019
 
 
 ## Connect with Me
