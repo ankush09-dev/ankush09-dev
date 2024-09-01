@@ -79,6 +79,7 @@ I am a passionate QA Software Engineer with 4+ years of experience ensuring soft
 
 ### [Shivaji University](https://www.unishivaji.ac.in/)
 **Degree**: Bachelors Of Engineering
+
 **Graduated**: June-2019
 
 
