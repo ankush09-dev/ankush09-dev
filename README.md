@@ -64,7 +64,16 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
   - Writing test scripts and Executions
   - End to end testing(Regression, functional, etc)
   - Bugs finding and logging on Jira
-  - API Testing on Postman tool
+  - API Testing on the Postman tool
+ 
+    [Implicit Solution] - Software Test Engineer
+    **Duration** : Nov-2019-July-2022
+  - **Responsibilities** :
+    - SQL Server was used as a database utility tool to perform database testing.
+    - Knowledge of JAVA, OOPS Concept.
+    - Performed Automation testing using Selenium on Web-based (Browser) applications And was Able to run the test cases for all browsers namely IE, Chrome, and Firefox.
+    - Knowing Selenium Web Driver and TestNG.
+    - Developed User-defined functions to support automated scripts, used the Data driven, Testing-using Selenium Proficient experience in Test Case Design, Test Execution, Bug tracking, and Reporting.
 
 ## Education
 
