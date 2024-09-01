@@ -3,11 +3,11 @@
 ![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
 -->
 
-I am a passionate QA Software Engineer with 2+ years of experience in ensuring the quality and reliability of software applications. I specialize in automated testing, manual testing, and performance testing. My goal is to deliver high-quality software products that meet and exceed user expectations.
+I am a passionate QA Software Engineer with 2+ years of experience ensuring software application quality and reliability. I specialize in automated testing, manual testing, and performance testing. My goal is to deliver high-quality software products that meet and exceed user expectations.
 
 - 🔭 I’m currently working with [Convin.ai](https://convin.ai)
 - 🌱 I’m currently learning GenAI.
-- 👯 I’m looking to collaborate on selenium Automation framework with python.
+- 👯 I’m looking to collaborate on the Selenium Automation framework with Python.
 - 💬 Ask me about Product Quality Testing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ankush-mangave)
 - ⚡ Fun fact: Playing Cricket, watching movies
@@ -65,15 +65,15 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
   - End to end testing(Regression, functional, etc)
   - Bugs finding and logging on Jira
   - API Testing on the Postman tool
- 
- ###[Implicit Solution] - Software Test Engineer
- **Duration** : Nov-2019-July-2022
-  - **Responsibilities** :
+    
+### [Implicit Solution](https://www.implicitsolutions.in/) — Software Test Engineer
+**Duration**: Nov-2019 - July-2022
+- **Responsibilities**:
     - SQL Server was used as a database utility tool to perform database testing.
     - Knowledge of JAVA, OOPS Concept.
     - Performed Automation testing using Selenium on Web-based (Browser) applications And was Able to run the test cases for all browsers namely IE, Chrome, and Firefox.
     - Knowing Selenium Web Driver and TestNG.
-    - Developed User-defined functions to support automated scripts, used the Data driven, Testing-using Selenium Proficient experience in Test Case Design, Test Execution, Bug tracking, and Reporting.
+    - Developed User-defined functions to support automated scripts, used the Data-driven, Testing-using Selenium Proficient experience in Test Case Design, Test Execution, Bug tracking, and Reporting.
 
 ## Education
 
