@@ -66,8 +66,8 @@ I am a passionate QA Software Engineer with 2+ years of experience in ensuring t
   - Bugs finding and logging on Jira
   - API Testing on the Postman tool
  
-    [Implicit Solution] - Software Test Engineer
-    **Duration** : Nov-2019-July-2022
+ ###[Implicit Solution] - Software Test Engineer
+ **Duration** : Nov-2019-July-2022
   - **Responsibilities** :
     - SQL Server was used as a database utility tool to perform database testing.
     - Knowledge of JAVA, OOPS Concept.
