@@ -67,7 +67,7 @@ I am a passionate QA Software Engineer with 4+ years of experience ensuring soft
   - API Testing on the Postman tool
     
 ### [Implicit Solution](https://www.implicitsolutions.in/) — Software Test Engineer
-**Duration**: Nov-2019 - July-2022
+**Duration**: July-2020 - July-2022
 - **Responsibilities**:
     - SQL Server was used as a database utility tool to perform database testing.
     - Knowledge of JAVA, OOPS Concept.
