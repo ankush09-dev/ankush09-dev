@@ -3,7 +3,7 @@
 ![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
 -->
 
-I am a passionate QA Software Engineer with 4+ years of experience ensuring software application quality and reliability. I specialize in automated testing, manual testing, and performance testing. My goal is to deliver high-quality software products that meet and exceed user expectations.
+I am a passionate Quality Assurance Lead with 4+ years of experience ensuring software application quality and reliability. I specialize in automated testing, manual testing, and performance testing. My goal is to deliver high-quality software products that meet and exceed user expectations.
 
 - 🔭 I’m currently working with [Convin.ai](https://convin.ai)
 - 🌱 I’m currently learning GenAI.
@@ -57,7 +57,7 @@ I am a passionate QA Software Engineer with 4+ years of experience ensuring soft
 -->
 ## Experience
 
-### [Convin.ai](https://convin.ai) — Quality Assurance Engineer
+### [Convin.ai](https://convin.ai) — Quality Assurance Lead
 **Duration**: Aug-2022 - Present
 - **Responsibilities**:
   - Writing Automation script using selenium(Python)
